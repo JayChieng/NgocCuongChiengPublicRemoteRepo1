@@ -1,1 +1,1 @@
-Local change made by Ngoc Cuong Chieng and Remote change made by Ngoc Cuong Chieng.
+Remote change made by Ngoc Cuong Chieng.
